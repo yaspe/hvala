@@ -1,4 +1,8 @@
-# Privacy Policy
+---
+title: Privacy Policy
+description: Hvala — Serbian learning app
+permalink: /privacy/
+---
 
 **Last updated:** June 15, 2026
 
